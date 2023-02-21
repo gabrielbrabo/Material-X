@@ -1,0 +1,12 @@
+.App {
+    background-color: #282c34;
+    min-height: 100vh;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.files {
+    width: 285px; 
+    height: 200px;
+    overflow: hidden;
+}
